@@ -1,0 +1,6 @@
+cmake*
+.idea
+make/**
+build/**
+data/**
+cargo
