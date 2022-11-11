@@ -4,3 +4,7 @@ make/**
 build/**
 data/**
 cargo
+
+# Added by cargo
+
+/target
